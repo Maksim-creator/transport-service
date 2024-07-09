@@ -39,6 +39,11 @@ npm run ios
 yarn ios
 ```
 
+https://github.com/Maksim-creator/transport-service/assets/65022007/cae4a5b5-7e8e-4d16-ae35-f682ee13287f
+![2024-07-0914 24 29-ezgif com-video-to-gif-converter](https://github.com/Maksim-creator/transport-service/assets/65022007/307ab7af-8f0f-4f21-ae4c-01073194ffce)
+
+
+
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
