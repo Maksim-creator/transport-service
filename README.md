@@ -5,7 +5,7 @@ This project is a mobile application for booking bus seats. It features a simple
 ## Step 1: Clone the repository
 
 ```bash
-git clone [https://github.com/Maksim-creator/transport-service.git](https://github.com/Maksim-creator/transport-service.git)
+git clone https://github.com/Maksim-creator/transport-service.git
 cd transportService
 ```
 
