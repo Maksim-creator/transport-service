@@ -1,0 +1,78 @@
+{
+  "buses": [
+    {
+      "id": "1",
+      "busName": "EX 1-2",
+      "from": "Kaduwela",
+      "to": "Matara",
+      "seats": [
+        { "seatNumber": 1, "available": false },
+        { "seatNumber": 2, "available": true },
+        { "seatNumber": 3, "available": true },
+        { "seatNumber": 4, "available": true },
+        { "seatNumber": 5, "available": true },
+        { "seatNumber": 6, "available": true },
+        { "seatNumber": 7, "available": true },
+        { "seatNumber": 8, "available": true },
+        { "seatNumber": 9, "available": true },
+        { "seatNumber": 10, "available": true },
+        { "seatNumber": 11, "available": true },
+        { "seatNumber": 12, "available": true },
+        { "seatNumber": 13, "available": true },
+        { "seatNumber": 14, "available": true },
+
+        { "seatNumber": 15, "available": true },
+        { "seatNumber": 16, "available": true },
+        { "seatNumber": 17, "available": true },
+        { "seatNumber": 18, "available": true },
+        { "seatNumber": 19, "available": true },
+        { "seatNumber": 20, "available": true },
+        { "seatNumber": 21, "available": true },
+        { "seatNumber": 22, "available": true },
+        { "seatNumber": 23, "available": true },
+        { "seatNumber": 24, "available": true },
+        { "seatNumber": 25, "available": true },
+        { "seatNumber": 26, "available": true },
+        { "seatNumber": 27, "available": true },
+        { "seatNumber": 28, "available": false }
+      ]
+    },
+    {
+      "id": "2",
+      "busName": "EX 1-25",
+      "from": "Panadura",
+      "to": "Matara",
+      "seats": [
+        { "seatNumber": 1, "available": false },
+        { "seatNumber": 2, "available": true },
+        { "seatNumber": 3, "available": true },
+        { "seatNumber": 4, "available": true },
+        { "seatNumber": 5, "available": true },
+        { "seatNumber": 6, "available": true },
+        { "seatNumber": 7, "available": true },
+        { "seatNumber": 8, "available": true },
+        { "seatNumber": 9, "available": true },
+        { "seatNumber": 10, "available": true },
+        { "seatNumber": 11, "available": true },
+        { "seatNumber": 12, "available": true },
+        { "seatNumber": 13, "available": true },
+        { "seatNumber": 14, "available": true },
+
+        { "seatNumber": 15, "available": true },
+        { "seatNumber": 16, "available": true },
+        { "seatNumber": 17, "available": true },
+        { "seatNumber": 18, "available": true },
+        { "seatNumber": 19, "available": true },
+        { "seatNumber": 20, "available": true },
+        { "seatNumber": 21, "available": true },
+        { "seatNumber": 22, "available": true },
+        { "seatNumber": 23, "available": true },
+        { "seatNumber": 24, "available": true },
+        { "seatNumber": 25, "available": true },
+        { "seatNumber": 26, "available": true },
+        { "seatNumber": 27, "available": true },
+        { "seatNumber": 28, "available": false }
+      ]
+    }
+  ]
+}
